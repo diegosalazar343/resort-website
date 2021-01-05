@@ -37,11 +37,9 @@ Navigate to this page as it is hosted via gh-pages by clicking the following hyp
 ## Known Bugs
 * _No known issues_
 ## License
-* MIT 2.0
+
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 ## Contact Information
 
-_Please let the creators know of discovered bugs or reccomended changes:_
-Diego Salazar <salazardiego343@gmail.com>
-Tyler Sinks <tyler.sinks@gmail.com>
+_{Add your contact information here.}_
