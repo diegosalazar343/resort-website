@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lobster', cursive;
+    color: #ff0066;
+    text-align: left;
+    margin-left: 30%;
+    background-image: radial-gradient(red 5%, green 15%, black 60%)}
+h1 {
+    font-size: 64pt;
+    font-family: 'Hanalei Fill', cursive;
+    display: block;
+    color: #0055ff;
+    text-shadow: 2px 4px  #00ffffed;
+}
+h2 {
+    font-size: 54pt;
+    font-family: 'Hanalei Fill', cursive;
+    display: inline-block;
+    color: #80aaff;
+    text-shadow: 2px 4px  #00ffffed;
+}
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #4d4dff;
+    text-shadow: 2px 4px  #00ffffed;
+    font-size: 2.5rem;
+}
+ol {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #4d4dff;
+    text-shadow: 1px 4px  #00ffffed;
+    font-size: 2.5rem;
+}
+img {
+    opacity: 0.3;
+    float: right;
+}
